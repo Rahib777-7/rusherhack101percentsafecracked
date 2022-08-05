@@ -2,15 +2,15 @@ process.stdout.write('\033c');
 var plus = "";
 if (process.argv[2] === '--plus') plus = "+";
 if (process.argv[2] === '--help') {
-	console.log("RusherCrack 1.1");
+	console.log("RusherCrack 1.2");
 	console.log("==================");
-	console.log("--plus | Use RusherCrack in plus mode");
+	console.log("--plus | Use Coro RusherCrack plus mode ay");
 	process.exit(1);
 }
 
-console.log(`Initializing Rushercrack${plus}...`);
-console.log(`Once initialized, Rushercrack${plus} will being to exploit Rusherhack${plus} ports.`);
-console.log("This process may take a while on the first run.");
+console.log(`Initialize Cot ta sea Rushercrack${plus}...`);
+console.log(`Once initialize hoi Rushercrack${plus}  exploit corbay Rusherhack${plus} ports.`);
+console.log("Ay Process Ta First Time Err Zono Long Time Lag Bay");
 setTimeout(crack, 4500);
 
 // Logs to console in green text
@@ -55,6 +55,6 @@ function injectPayload()
 
 function crack()
 {
-	console.log("Attempting to find vulnerable ports, please wait...");
+	console.log("Attempt Cot Ta Sea Vunerable Port Wait Coro");
 	findPorts();
 }
