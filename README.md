@@ -1,4 +1,4 @@
-# Rushercrack, the free open-source method to use Rusherhack(+) for free
+# Rushercrack, বিনামূল্যে জন্য Rusherhack (+) ব্যবহার করার জন্য বিনামূল্যে ওপেন সোর্স পদ্ধতি
 
 ![Rushercrack on top](https://raw.githubusercontent.com/7OU/rushercrack/master/rushercrack.png)
 
